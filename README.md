@@ -5,74 +5,90 @@
 
 ## 👨‍💻 自己紹介
 
-インド出身のソフトウェアエンジニアです。  
-コンピュータサイエンスを専攻し、現在はWeb開発を中心に学習・開発を行っています。
+コンピュータサイエンス専攻のソフトウェアエンジニアです。  
+現在は主にWeb開発を中心に学習および開発を行っています。
 
-日本語とソフトウェア開発の両方のスキルを活かし、日本企業でエンジニアとして価値を提供することを目標としています。
+日本語能力とソフトウェア開発スキルを活かし、日本企業でエンジニアとして貢献することを目標としています。
 
-特に、日本語学習者向けのWebアプリケーション開発に力を入れており、自身で日本語学習サイトを企画・設計・開発しました。
+また、日本語学習者向けのWebアプリケーションを個人で企画・設計・開発しました。
 
 ---
 
 ## 🇯🇵 日本語能力
 
 - JLPT N2 合格
-- 日本語での技術的な会話・ドキュメント読解が可能
+- 日本語での技術ドキュメントの読解可能
 - 日本語での業務コミュニケーション可能
 
 ---
 
 ## 🚀 代表プロジェクト
 
-### 🟢 日本語学習Webサイト
+### 日本語学習Webアプリケーション
 
-日本語学習者のためのWebアプリケーションを個人で開発しました。
+日本語学習者のためのWebサイトを個人で開発しました。
 
-**担当した内容：**
+**担当：**
 
-- 要件定義
-- UI/UX設計
-- フロントエンド開発
-- バックエンド開発
-- データベース設計
+・企画  
+・設計  
+・フロントエンド開発  
+・バックエンド開発  
+・データベース設計  
 
 **使用技術：**
 
-- React
-- Node.js
-- MongoDB
-- JavaScript
-- Tailwind CSS
+・React  
+・Node.js  
+・MongoDB  
+・JavaScript  
+・Tailwind CSS  
 
-このプロジェクトを通して、フルスタック開発の経験を積みました。
+このプロジェクトを通して、フルスタック開発のスキルを習得しました。
 
 ---
 
 ## 💻 技術スキル
 
-### 言語
+<p align="left">
 
-- Java
-- JavaScript
-- C++
-- SQL
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
 
-### フロントエンド
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
 
-- React
-- HTML
-- CSS
-- Tailwind CSS
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
 
-### バックエンド
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-- Node.js
-- Spring Boot
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-### データベース
+<a href="https://spring.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</a>
 
-- MongoDB
-- MySQL
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
@@ -85,13 +101,9 @@
 
 ## 📫 連絡先
 
-- Email: **preetamrawat107@gmail.com**
+Email: **preetamrawat107@gmail.com**
 
 ---
 
-## 🤝 メッセージ
-
-私のGitHubをご覧いただき、ありがとうございます。
-
-継続的にスキル向上とプロジェクト開発に取り組んでいます。  
+GitHubをご覧いただき、ありがとうございます。  
 どうぞよろしくお願いいたします。
