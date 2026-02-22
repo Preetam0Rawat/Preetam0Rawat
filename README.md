@@ -1,11 +1,97 @@
-<h1 align="center">Hi 👋, I'm Preetam Rawat</h1>
-<h3 align="center">Japanese Bilingual Software Developer</h3>
+<h1 align="center">こんにちは 👋、ラワット・プリタムです</h1>
+<h3 align="center">日英バイリンガル ソフトウェアエンジニア</h3>
 
-- 📫 How to reach me **preetamrawat107@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍💻 自己紹介
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+インド出身のソフトウェアエンジニアです。  
+コンピュータサイエンスを専攻し、現在はWeb開発を中心に学習・開発を行っています。
+
+日本語とソフトウェア開発の両方のスキルを活かし、日本企業でエンジニアとして価値を提供することを目標としています。
+
+特に、日本語学習者向けのWebアプリケーション開発に力を入れており、自身で日本語学習サイトを企画・設計・開発しました。
+
+---
+
+## 🇯🇵 日本語能力
+
+- JLPT N2 合格
+- 日本語での技術的な会話・ドキュメント読解が可能
+- 日本語での業務コミュニケーション可能
+
+---
+
+## 🚀 代表プロジェクト
+
+### 🟢 日本語学習Webサイト
+
+日本語学習者のためのWebアプリケーションを個人で開発しました。
+
+**担当した内容：**
+
+- 要件定義
+- UI/UX設計
+- フロントエンド開発
+- バックエンド開発
+- データベース設計
+
+**使用技術：**
+
+- React
+- Node.js
+- MongoDB
+- JavaScript
+- Tailwind CSS
+
+このプロジェクトを通して、フルスタック開発の経験を積みました。
+
+---
+
+## 💻 技術スキル
+
+### 言語
+
+- Java
+- JavaScript
+- C++
+- SQL
+
+### フロントエンド
+
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+### バックエンド
+
+- Node.js
+- Spring Boot
+
+### データベース
+
+- MongoDB
+- MySQL
+
+---
+
+## 🎯 目標
+
+日本企業でソフトウェアエンジニアとして働き、  
+長期的に日本でキャリアを築くことを目指しています。
+
+---
+
+## 📫 連絡先
+
+- Email: **preetamrawat107@gmail.com**
+
+---
+
+## 🤝 メッセージ
+
+私のGitHubをご覧いただき、ありがとうございます。
+
+継続的にスキル向上とプロジェクト開発に取り組んでいます。  
+どうぞよろしくお願いいたします。
